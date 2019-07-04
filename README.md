@@ -1,2 +1,1 @@
-# sale-price-calculator
- 
+This is js-dom project.
